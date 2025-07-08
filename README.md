@@ -45,10 +45,10 @@ Now you can run gotop and specify the Laita theme using the -c flag:
 gotop -c laita
 ```
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 If you have suggestions or improvements, feel free to open an issue or submit a pull request!
 
-### 📄 License
+## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
