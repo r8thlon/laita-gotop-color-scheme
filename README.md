@@ -1,6 +1,6 @@
 # Laita gotop Color Scheme
 
-![Screenshot of gotop with Laita theme (Optional - You'll add this later)](./gotop/laita-preview.png)
+![Screenshot of gotop with Laita theme](./gotop/laita-preview.png)
 
 A custom color scheme for [gotop](https://github.com/cjbassi/gotop), meticulously designed for white-background terminals. This theme ensures optimal readability and a sleek look by using dark, contrasting colors against a light backdrop. Perfect for users who prefer a bright terminal environment.
 
@@ -51,4 +51,4 @@ If you have suggestions or improvements, feel free to open an issue or submit a 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU License - see the LICENSE file for details.
